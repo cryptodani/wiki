@@ -67,7 +67,7 @@ Time-lock Voting + Delayed Enactment
 
 ### Decred
 
-...
+https://github.com/RichardRed0x/pi-research
 
 ### DASH
 
@@ -89,6 +89,10 @@ Time-lock Voting + Delayed Enactment
 
 ## Layer 2: Application-based
 
+### Aragon
+
+https://education.district0x.io/district0x-specific-topics/understanding-technology-behind-district0x/aragon/
+https://masterthecrypto.com/analysis-on-aragon/
 ### Genesis 
 
 * [https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
@@ -109,7 +113,7 @@ Based on Alchemy
 
 ### The DAO
 
-...
+https://blog.slock.it/the-history-of-the-dao-and-lessons-learned-d06740f8cfa5
 
 ## Association-based
 
